@@ -67,3 +67,8 @@ body {
 .flow > * + * {
   margin-top: var(--flow-space, 1.25em);
 }
+
+.footer {
+  align-self: end;
+  padding-bottom: 15px;
+}
