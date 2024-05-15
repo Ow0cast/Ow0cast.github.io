@@ -1,0 +1,18 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Canonical: https://wayland.best/.well-known/security.txt
+Canonical: https://www.wayland.best/.well-known/security.txt
+
+Expires: 2026-05-15T12:00:00.000Z
+
+Contact: mailto:owuh@wayland.best
+
+Encryption: https://wayland.best/pubkey.pgp
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQPuuhcSKdj8dg2wLkJfCRzwOUn9AUCZkTfHwAKCRAJfCRzwOUn
+9Ot8AP9p/Dyc88jABzeNCQH/enybNFEvvsyumHXcUdD+/ymK6wD/Umpy5CDyMyZK
+KjT4iMjm4Dxlwob23TlDwGDOPJQSoQw=
+=4dXP
+-----END PGP SIGNATURE-----
