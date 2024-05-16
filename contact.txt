@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+If you wish to contact me, you can do so by emailing me at
+owuh ﹫ wayland dot best (don't copy + paste) or via Discord with the username
+'ow0cast' (id is 838063348217937992) where I am more likely to respond. Should
+you wish to communicate securely, my current PGP key can be found at
+https://wayland.best/pubkey.pgp with the same email as above. To verify that
+it has not been tampered with, you can compare it's SHA256 checksum to the one
+listed at the bottom of this document. This document will also be signed using
+the same key.
+
+a7c1b419df9692ec7757937af5bad537d5433388e7ec0400b786fbb9a9d9ceb2  pubkey.pgp
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQPuuhcSKdj8dg2wLkJfCRzwOUn9AUCZkX9UwAKCRAJfCRzwOUn
+9BTDAPsEd5P9CxwhlNCaRl26OM7D6/t//px0DtAmw8EzGD/HMQEA0laQv0117Ckz
+S50k4+4pAJukejBambBwmWODSr+OAA4=
+=vjRh
+-----END PGP SIGNATURE-----
