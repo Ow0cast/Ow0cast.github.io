@@ -1,0 +1,34 @@
+<html>
+<head>
+  <title>don't paste that!</title>
+  <link href="https://wayland.best/style.css" rel="stylesheet">
+  <meta content="don't paste that!" property="og:title">
+  <meta content="Why you shouldn't blindly copy and paste text into your terminal" property="og:description">
+  <meta content="https://wayland.best" property="og:url">
+  <meta content="#CA9EE6" name="theme-color">
+</head>
+<body>
+  <main class="flow">
+    <div class="inner">
+      <div class="card">
+        <p class="heading">don't paste that</p>
+        <p class="subtext">(probably)</p>
+        <hr>
+        <p class="text">
+          It's not the best idea to copy and paste code from the internet into your terminal. Here's why!<br>
+          The following command looks like it's pretty harmless, right? While it is harmless, it could be misused to do something that isn't harmless.
+        </p>
+        <code class="text">
+            git clone
+            <span style="position: absolute; left: -100px; top: -100px">/dev/null; echo "Hello!";echo -e "That was a bad idea. Don\'t copy code from websites you don\'t trust!<br>Instead of cloning the repository, here\'s the first lines of your /etc/passwd file: ";head -n3 /etc/passwd;<br>#git clone </span>
+            git://git.kernel.org/pub/scm/utils/kup/kup.git
+        </code>
+        <p class="text">
+          Scary, isn't it?
+        </p>
+      </div>
+    </div>
+  </main>
+  <p class="subtext footer"><a href="/LICENSE">Copyright (c) 2025 Ow0cast</a></a></p>
+</body>
+</html>
