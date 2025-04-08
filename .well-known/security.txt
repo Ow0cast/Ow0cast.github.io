@@ -1,18 +1,22 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
+Contact: mailto:owuh@wayland.best
+Contact: https://discord.com/users/838063348217937992
+
+Expires: 2027-06-01T12:00:00.000Z
+
+Encryption: https://wayland.best/pubkey.pgp
+
+Preferred-Languages: en
+
 Canonical: https://wayland.best/.well-known/security.txt
 Canonical: https://www.wayland.best/.well-known/security.txt
 
-Expires: 2026-05-15T12:00:00.000Z
-
-Contact: mailto:owuh@wayland.best
-
-Encryption: https://wayland.best/pubkey.pgp
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQPuuhcSKdj8dg2wLkJfCRzwOUn9AUCZkTfHwAKCRAJfCRzwOUn
-9Ot8AP9p/Dyc88jABzeNCQH/enybNFEvvsyumHXcUdD+/ymK6wD/Umpy5CDyMyZK
-KjT4iMjm4Dxlwob23TlDwGDOPJQSoQw=
-=4dXP
+iHUEARYKAB0WIQQPuuhcSKdj8dg2wLkJfCRzwOUn9AUCZ/UbNAAKCRAJfCRzwOUn
+9Go+AP97cY0NQD9jQ0OXr9RoRcCFMEJ68IHvulDEotX0xTIxkwD/UnkvaHQ8Hq5E
+oTYDYAxSGZOl6u3vFyG+Mghb9hzwKQ0=
+=RINo
 -----END PGP SIGNATURE-----
